@@ -23,7 +23,8 @@ default: &default
 
 development:
   <<: *default
-  database: d4ohj2r0ijd96j
+  database: puppet_app_development
+  #database: d4ohj2r0ijd96j
   #host: ec2-184-73-165-193.compute-1.amazonaws.com
   #username: xpxfbsjqccejyg
   #password: zgs4VMgjFqXAUdAhg--qOjRyK7
