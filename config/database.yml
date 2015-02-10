@@ -23,7 +23,10 @@ default: &default
 
 development:
   <<: *default
-  database: puppet_app_development
+  database: d4ohj2r0ijd96j
+  host: ec2-184-73-165-193.compute-1.amazonaws.com
+  username: xpxfbsjqccejyg
+  password: zgs4VMgjFqXAUdAhg--qOjRyK7
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
   # When left blank, postgres will use the default role. This is
