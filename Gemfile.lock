@@ -44,12 +44,15 @@ GEM
       columnize (~> 0.8)
       debugger-linecache (~> 1.2)
       slop (~> 3.6)
+<<<<<<< HEAD
     capistrano (3.3.5)
       capistrano-stats (~> 1.1.0)
       i18n
       rake (>= 10.0.0)
       sshkit (~> 1.3)
     capistrano-stats (1.1.1)
+=======
+>>>>>>> 43366addcab4fc519a8a39b3c5ffd8643580a56b
     coffee-rails (4.1.0)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.0)
@@ -57,7 +60,10 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.0)
+<<<<<<< HEAD
     colorize (0.7.5)
+=======
+>>>>>>> 43366addcab4fc519a8a39b3c5ffd8643580a56b
     columnize (0.9.0)
     debug_inspector (0.0.2)
     debugger-linecache (1.2.0)
@@ -83,9 +89,12 @@ GEM
     mini_portile (0.6.2)
     minitest (5.5.1)
     multi_json (1.10.1)
+<<<<<<< HEAD
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (2.9.2)
+=======
+>>>>>>> 43366addcab4fc519a8a39b3c5ffd8643580a56b
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
     nokogiri (1.6.6.2-x64-mingw32)
@@ -142,10 +151,13 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
+<<<<<<< HEAD
     sshkit (1.6.1)
       colorize (>= 0.7.0)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
+=======
+>>>>>>> 43366addcab4fc519a8a39b3c5ffd8643580a56b
     thor (0.19.1)
     thread_safe (0.3.4)
     tilt (1.4.1)
@@ -170,7 +182,10 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+<<<<<<< HEAD
   capistrano
+=======
+>>>>>>> 43366addcab4fc519a8a39b3c5ffd8643580a56b
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
