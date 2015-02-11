@@ -67,3 +67,10 @@ Started GET "/assets/scaffolds-0c713d4193ecae2b58414f16242995be.css?body=1" for 
 
 
 Started GET "/assets/application-70308f5a52f3017cb23e15a383fa1f4f.js?body=1" for 127.0.0.1 at 2015-02-11 16:33:46 +1100
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-11 16:46:58 +1100
+  [1m[36mActiveRecord::SchemaMigration Load (1.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 127ms (Views: 108.8ms | ActiveRecord: 0.0ms)
